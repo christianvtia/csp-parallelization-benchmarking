@@ -1,0 +1,7 @@
+solverType: AC3-DVO
+nThreads: 10
+boardSize: 6
+printAllSolutions: false
+printResultsToTxt: true
+saveSolutionsToTxt: false
+domainGranularity: 3
