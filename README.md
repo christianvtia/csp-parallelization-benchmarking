@@ -1,1 +1,1 @@
-# csp-parallelization-benchmarking
+To compile the code, enter "g++ -std=c++17 -O3 -pthread -o nqueens \[experiment file name\] BTSolver.cpp BTFCSolver.cpp BTFCDVOSolver.cpp AC3Solver.cpp AC3DVOSolver.cpp" in the terminal in the folder where the files are downloaded (when running experiment_fromConfig, modify "config.txt" to the desired parameters). Then run "nqueens.exe" or enter "nqueens" in the terminal.
